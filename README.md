@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**larissa-nicanor/larissa-nicanor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Olá! 👋 Eu sou a Larissa</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+Desenvolvedora back-end com foco na criação de soluções escaláveis, eficientes e bem estruturadas.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ✨ Sobre mim
+
+Sou apaixonada por entender o que acontece por trás da interface. Gosto de aprender constantemente — seja ao depurar um erro ou com um bom café ☕.  
+Tenho grande interesse por lógica, arquitetura de sistemas e boas práticas de desenvolvimento. Curto resolver problemas de forma criativa e busco evoluir um pouco a cada commit. Acredito que a tecnologia é uma ponte, e sigo trilhando esse caminho com propósito e paixão.
+
+### Me Encontre Online, vamos nos conectar:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-nicanor/)
+
+---
+
+### 💻 Tecnologias do dia-a-dia
+
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" title="Python"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" title="Java"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" title="JavaScript"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px" title="Docker"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px" title="PostgreSQL"/></a>
